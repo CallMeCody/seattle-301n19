@@ -199,8 +199,8 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-//
+// this refers to the student constructor
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//
+// this refers to joe
 // 3. Explain why "this" is different when an arrow function is used.
 //
